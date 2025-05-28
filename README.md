@@ -71,7 +71,7 @@ It helps digitize the management process, reduce manual workload, and improve ad
 - 📱 Frontend: Kotlin  
 
 🔗 GitHub Client: [DANGCONGNHAT-22204-22JIT](https://github.com/dangcongnhat2004/DANGCONGNHAT-22204-22JIT)  
-🔗 GitHub Server: [demoBackend](https://github.com/dangcongnhat2004/demoBackend)
+🔗 GitHub Server: [demoBackend](https://github.com/dangcongnhat2004/be_studentmanagement)
 
 ---
 
