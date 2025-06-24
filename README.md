@@ -50,6 +50,10 @@ I’m a dedicated and detail-oriented software developer who enjoys building bac
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Draw.io-%23FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJIDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-%230079C1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
