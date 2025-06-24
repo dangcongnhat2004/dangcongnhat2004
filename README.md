@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 A passionate student at the University of Information and Communication Technology – VKU <br/>
-  💻 Backend Developer | DevOps Learner  <br/>
+  💻 Fullstack Developer | DevOps Learner  <br/>
   🚀 Driven by practical projects and a strong desire to build useful, real-world applications
 </p>
 
