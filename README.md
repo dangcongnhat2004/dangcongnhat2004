@@ -44,10 +44,12 @@ I’m a dedicated and detail-oriented software developer who enjoys building bac
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Computing-%23007396?style=for-the-badge&logo=cloud&logoColor=white"/>
 </p>
+
 ### 🧰 Tools
-<p align="left"> 
-<img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Draw.io-%23FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white"/> 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Draw.io-%23FF9900?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
 </p>
 
 ---
