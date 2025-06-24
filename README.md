@@ -23,6 +23,7 @@ I’m a dedicated and detail-oriented software developer who enjoys building bac
   <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/> </p>
 </p>
 
 ### 🖥️ Desktop & Graphics Programming
@@ -52,6 +53,8 @@ I’m a dedicated and detail-oriented software developer who enjoys building bac
 
 A sample project aimed at setting up a **Continuous Integration and Continuous Deployment (CI/CD)** pipeline for a shoe shop web application using **GitLab CI/CD**.  
 This project focuses on:
+- 🖥️ Backend: Spring Boot  
+- 📱 Frontend: ReactJS  
 - Configuring the GitLab Runner
 - Writing CI/CD pipelines
 - Automating jobs such as build, deploy, and logging  
@@ -77,7 +80,9 @@ It helps digitize the management process, reduce manual workload, and improve ad
 
 ### 🏥 Online Medical Appointment Booking Website
 
-A web-based platform to help users conveniently schedule medical appointments.  
+A web-based platform to help users conveniently schedule medical appointments. 
+- 🖥️ Backend: Laravel  
+- 📱 Frontend: HTML, CSS, JQuerry  
 Patients can:
 - Choose doctors
 - Select time slots
